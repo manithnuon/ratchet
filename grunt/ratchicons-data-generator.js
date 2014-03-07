@@ -2,6 +2,9 @@
  * Ratchet Grunt task for Ratchicons data generation
  * Adapted from Bootstrap
  */
+
+/* jshint node: true */
+
 'use strict';
 var fs = require('fs');
 
